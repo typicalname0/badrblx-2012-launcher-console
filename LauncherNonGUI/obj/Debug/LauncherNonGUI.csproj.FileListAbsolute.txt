@@ -1,0 +1,6 @@
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\bin\Debug\LauncherNonGUI.exe.config
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\bin\Debug\LauncherNonGUI.exe
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\bin\Debug\LauncherNonGUI.pdb
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\obj\Debug\LauncherNonGUI.csproj.CoreCompileInputs.cache
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\obj\Debug\LauncherNonGUI.exe
+C:\Users\arai2\source\repos\LauncherNonGUI\LauncherNonGUI\obj\Debug\LauncherNonGUI.pdb
